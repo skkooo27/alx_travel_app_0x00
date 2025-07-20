@@ -1,5 +1,3 @@
-# ALX Travel App
-
 This Django project is designed for managing travel listings.
 
 ## Setup Instructions
